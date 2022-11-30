@@ -1,4 +1,4 @@
 # CST-S3D
-This work is accepted on Digital Image Computing: Techniques and Applications (DICTA) conference
+This work is accepted on Digital Image Computing: Techniques and Applications (DICTA) conference 2022.
 
 The dataset is available on https://drive.google.com/drive/folders/1-JLHhp9b-n4GCEVklJQy9zNrCPrdZhnW?usp=share_link
